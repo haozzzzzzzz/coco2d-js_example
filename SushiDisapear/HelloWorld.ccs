@@ -1,0 +1,41 @@
+<Solution>
+  <PropertyGroup Name="HelloWorld" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="sushi.png" PListFile="sushi.plist" Name=".sushi_PList.Dir">
+          <PlistImageFile Name="sushi_1n.png" Key="sushi_1n.png" />
+          <PlistImageFile Name="sushi_1n_0.png" Key="sushi_1n_0.png" />
+          <PlistImageFile Name="sushi_1n_1.png" Key="sushi_1n_1.png" />
+          <PlistImageFile Name="sushi_1n_10.png" Key="sushi_1n_10.png" />
+          <PlistImageFile Name="sushi_1n_2.png" Key="sushi_1n_2.png" />
+          <PlistImageFile Name="sushi_1n_3.png" Key="sushi_1n_3.png" />
+          <PlistImageFile Name="sushi_1n_4.png" Key="sushi_1n_4.png" />
+          <PlistImageFile Name="sushi_1n_5.png" Key="sushi_1n_5.png" />
+          <PlistImageFile Name="sushi_1n_6.png" Key="sushi_1n_6.png" />
+          <PlistImageFile Name="sushi_1n_7.png" Key="sushi_1n_7.png" />
+          <PlistImageFile Name="sushi_1n_8.png" Key="sushi_1n_8.png" />
+          <PlistImageFile Name="sushi_1n_9.png" Key="sushi_1n_9.png" />
+        </PlistImageFolder>
+        <Folder Name="sushi_1n">
+          <File Name=".DS_Store" />
+          <Image Name="sushi_1n.png" />
+          <Image Name="sushi_1n_0.png" />
+          <Image Name="sushi_1n_1.png" />
+          <Image Name="sushi_1n_10.png" />
+          <Image Name="sushi_1n_2.png" />
+          <Image Name="sushi_1n_3.png" />
+          <Image Name="sushi_1n_4.png" />
+          <Image Name="sushi_1n_5.png" />
+          <Image Name="sushi_1n_6.png" />
+          <Image Name="sushi_1n_7.png" />
+          <Image Name="sushi_1n_8.png" />
+          <Image Name="sushi_1n_9.png" />
+        </Folder>
+        <Image Name="background.png" />
+        <Image Name="start_N.png" />
+        <Image Name="start_S.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
